@@ -24,7 +24,7 @@
     "graphql-tools": "^2.24.0",
     "isomorphic-fetch": "^2.2.1",
     "jquery": "^1.12.3",
-    "jquery-validation": "^1.19.2",
+    "jquery-validation": "^1.19.4",
     "knox-s3": "^0.9.5",
     "meteor-node-stubs": "^0.3.3",
     "moment": "^2.29.1",
