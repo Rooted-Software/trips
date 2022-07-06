@@ -27,7 +27,7 @@
     "jquery-validation": "^1.19.2",
     "knox-s3": "^0.9.5",
     "meteor-node-stubs": "^0.3.3",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "papaparse": "^4.6.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.6",
